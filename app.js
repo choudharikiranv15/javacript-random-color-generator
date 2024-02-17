@@ -12,3 +12,4 @@ const makeRandColor = () => {
     const b = Math.floor(Math.random() * 256);
     return `rgb(${r},${g},${b})`;
 }
+
